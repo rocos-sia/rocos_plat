@@ -3,7 +3,7 @@
 
 ## 1. 可视化视频，ros2可视化激光点云数据
 ### 1.版本1视频
-<img src="https://github.com/cheng9911/rocos_plat/blob/main/images/1.gif" alt="show" />
+<img src="https://github.com/rocos-sia/rocos_plat/blob/main/images/1.gif" alt="show" />
 
 ## 运行
 
