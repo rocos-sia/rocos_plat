@@ -16,3 +16,5 @@ $ ros2 run cloud2publish cloud2
 ##新建终端
 $ rviz2
 ```
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
+ros2 launch turtlebot3_cartographer cartographer.launch.py 
